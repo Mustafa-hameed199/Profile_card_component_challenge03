@@ -1,1 +1,3 @@
-# Profile_card_component_challenge03
+# Frontend Mentor - Profile card component
+
+## Welcome! 👋
